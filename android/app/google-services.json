@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861943490543",
+    "project_id": "kamakoti-9dddd",
+    "storage_bucket": "kamakoti-9dddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861943490543:android:4315262ac7fc2895e3b81a",
+        "android_client_info": {
+          "package_name": "com.example.kamakoti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dlEcCQGIxEToQSC79X9frpyhZvSE3f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861943490543:android:797274d80adb5b41e3b81a",
+        "android_client_info": {
+          "package_name": "com.scsvmv.kamakoti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5dlEcCQGIxEToQSC79X9frpyhZvSE3f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
